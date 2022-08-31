@@ -23,7 +23,7 @@ Clone the project
 Go to the project directory
 
 ```bash
-  cd random-bgcolor-generator
+  cd tic-tac-toe
 ```
 Open it with [VS live sever](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) or your browser of choice
 **I recomend opening `index.html` wich is suppones to be the menu**
