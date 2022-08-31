@@ -7,13 +7,6 @@ Made by [@mariogutierrezlopez](https://www.github.com/mariogutierrezlopez)
 
 ![Demo](https://i.postimg.cc/cLNjrQPx/Animation.gif)
 
-
-## Features
-
-- Use of CSS custom properties
-- Optimal Resource Usage Logic
-- Copy button to your clipboard
-
 ## Support
 
 For support, email marioguti033@gmail.com
