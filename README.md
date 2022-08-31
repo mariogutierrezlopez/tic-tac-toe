@@ -30,4 +30,4 @@ Open it with [VS live sever](https://marketplace.visualstudio.com/items?itemName
 
 ## INSPO AND SOURCE
 
-[Youtube video found here](https://www.youtube.com/watch?v=Y-GkMjUZsmM)
+Youtube video found [here](https://www.youtube.com/watch?v=Y-GkMjUZsmM)
