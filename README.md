@@ -17,7 +17,7 @@ For support, email marioguti033@gmail.com
 Clone the project
 
 ```bash
-  git clone https://github.com/mariogutierrezlopez/random-bgcolor-generator.git
+  git clone https://github.com/mariogutierrezlopez/tic-tac-toe.git
 ```
 
 Go to the project directory
